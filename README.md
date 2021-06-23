@@ -1,2 +1,2 @@
 # XADC-Pot-IP-Code
-FPGA Analog to digital conversion based embedded system. 
+FPGA base Analog to digital conversion embedded system. 
